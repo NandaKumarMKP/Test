@@ -1,1 +1,13 @@
 
+![Monoz_BG96_V2_Board_B](https://user-images.githubusercontent.com/96810688/163812268-11d2a7cf-c184-47ab-9a7b-86c43ca96b39.png)
+![Monoz_BG96_V2_Board_F](https://user-images.githubusercontent.com/96810688/163812271-2e196a93-e9e4-4047-ab47-6439e62fb14a.png)
+![Monoz_BG96_V2_J3_changed](https://user-images.githubusercontent.com/96810688/163812275-e2f72d73-9db6-4912-93f5-8b5b078243e1.png)
+![Monoz_BG96_V2_J4_changed](https://user-images.githubusercontent.com/96810688/163812279-13abbd3e-3cda-431f-9f96-76268e439286.png)
+![Monoz_BG96_V2_mechanicalSpec](https://user-images.githubusercontent.com/96810688/163812282-2973920e-abf9-4879-99f3-bc9c94945f89.png)
+![monoZeroBG96-V2_3d_changed](https://user-images.githubusercontent.com/96810688/163812313-ef88e1a0-2af3-4fce-970f-ca521a6b6c98.png)
+![Monoz_BG96_V2_J3_changed](https://user-images.githubusercontent.com/96810688/163812877-f47526b8-2dea-4abe-9606-3b718ae40eb1.png)
+![Monoz_BG96_V2_antenna](https://user-images.githubusercontent.com/96810688/163813046-85b99287-b901-48ad-8748-9645644bd7fe.png)
+![Monoz_BG96_V2_power](https://user-images.githubusercontent.com/96810688/163813048-69b0e2e0-a29f-4e40-8135-9943ee96a59c.png)
+![Monoz_BG96_V2_swd](https://user-images.githubusercontent.com/96810688/163813053-67776053-0b9c-45c3-9974-e3cb7e531615.png)
+![JET_Main_Board_BG96_V2_MCU_changed](https://user-images.githubusercontent.com/96810688/163813672-27e42e62-d5b4-42c0-9bc0-a5ea69f91c13.jpg)
+![JET_Main_Board_BG96_V2_Power_changed](https://user-images.githubusercontent.com/96810688/163813675-5e3bcfbb-7962-4c18-bb17-0fdd409be92a.jpg)
